@@ -8,9 +8,9 @@ Overview
 
 Nikuyoshi's answer code for TopCoder Single Round Match.
 
-The problem statement for each solution can be found at `TopCoder Problem Archieve`_.
+The problem statement for each solution can be found at the `TopCoder Problem Archieve`_.
 
-The part of solutions is written in my own time (that means: not during contest) so I try to make them as clean as possible.
+The part of solutions is written on my own time (that means: not during contest) so I try to make them as clean as possible.
 
 
 +-----------+----------+-------+
