@@ -43,6 +43,7 @@ Requirements
 
 Changelog
 ---------
+- 2013-08-27 D2L1 SRM589
 - 2013-08-13 D2L1 SRM587
 - 2013-08-13 D2L1 SRM588
 
