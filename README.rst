@@ -31,6 +31,7 @@ The part of solutions is written on my own time (that means: not during contest)
 
 Requirements
 ------------
+
 - JUnit 4.10
 - JDK 7
 
@@ -43,6 +44,8 @@ Requirements
 
 Changelog
 ---------
+
+- 2013-10-05 D2L1 SRM592, SRM593
 - 2013-08-27 D2L1 SRM589
 - 2013-08-13 D2L1 SRM587
 - 2013-08-13 D2L1 SRM588
